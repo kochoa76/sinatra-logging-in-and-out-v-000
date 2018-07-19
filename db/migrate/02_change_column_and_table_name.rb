@@ -7,4 +7,4 @@ class ChangeColumnAndTableName < ActiveRecord::Migration[4.2]
       t.decimal :balance
     end
   end
-end 
+end
